@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Projekt.iml" filepath="$PROJECT_DIR$/.idea/Projekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Py-Social-Network-Practice-master/.idea/Py-Social-Network-Practice-master.iml" filepath="$PROJECT_DIR$/../Py-Social-Network-Practice-master/.idea/Py-Social-Network-Practice-master.iml" />
+      <module fileurl="file://D:/PycharmProjects/test_1/.idea/test_1.iml" filepath="D:/PycharmProjects/test_1/.idea/test_1.iml" />
+    </modules>
+  </component>
+</project>
